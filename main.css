@@ -13,3 +13,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+.footer {
+  padding: 30px 100px;
+  text-align: center;
+  background: limegreen;
+  font-size: 32px;
+  font-family: sans-serif;
+  color: yellow;
+}
